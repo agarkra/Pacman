@@ -8,9 +8,9 @@ Want to run the program in your pc: download the repository and run pacman_game.
 Level.py program help us in designing different levels of the game.
 
 Resources folder consist of three different files:
-Font
-images
-Background music
+> Font
+> mages
+> Background music
 
 
 
